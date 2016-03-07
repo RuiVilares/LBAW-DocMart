@@ -18,21 +18,21 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Mulher<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="#">Casacos</a></li>
-						<li><a href="#">Camisolas</a></li>
-						<li><a href="#">Calças</a></li>
-						<li><a href="#">Sapatos</a></li>
+						<li><a href="/DocMart/mulher/casacos">Casacos</a></li>
+						<li><a href="/DocMart/mulher/casacos">Camisolas</a></li>
+						<li><a href="/DocMart/mulher/casacos">Calças</a></li>
+						<li><a href="/DocMart/mulher/casacos">Sapatos</a></li>
 						<li role="separator" class="divider"></li>
-						<li><a href="#">Coleção</a></li>
+						<li><a href="/DocMart/mulher/casacos">Coleção</a></li>
 					</ul>
 				</li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Homem<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="#">Casacos</a></li>
-						<li><a href="#">Camisolas</a></li>
-						<li><a href="#">Calças</a></li>
-						<li><a href="#">Sapatos</a></li>
+						<li><a href="/DocMart/mulher/casacos">Casacos</a></li>
+						<li><a href="/DocMart/mulher/casacos">Camisolas</a></li>
+						<li><a href="/DocMart/mulher/casacos">Calças</a></li>
+						<li><a href="/DocMart/mulher/casacos">Sapatos</a></li>
 						<li role="separator" class="divider"></li>
 						<li><a href="#">Coleção</a></li>
 					</ul>
@@ -40,8 +40,8 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Acessórios<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="#">Homem</a></li>
-						<li><a href="#">Mulher</a></li>
+						<li><a href="/DocMart/mulher/casacos">Homem</a></li>
+						<li><a href="/DocMart/mulher/casacos">Mulher</a></li>
 					</ul>
 				</li>
 				<form class="navbar-form navbar-left" role="search">
