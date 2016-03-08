@@ -16,13 +16,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img class="slide-image" src="http://www.roupadobem.com.br/slide/data1/images/slide3.jpg" alt="">
+                                    <img class="slide-image" src="http://www.peopletree.co.uk/Configuration/PeopleTree/Downloads/images/2015%20New%20Category%20Pages/NEW-mens-category-page.jpg" alt="">
                                 </div>
                                 <div class="item">
                                     <img class="slide-image" src="http://d1cr7zfsu1b8qs.cloudfront.net/simages/sW3XazfNmB.jpg" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="http://www.peopletree.co.uk/Configuration/PeopleTree/Downloads/images/2015%20New%20Category%20Pages/NEW-mens-category-page.jpg" alt="">
+                                    <img class="slide-image" src="http://www.roupadobem.com.br/slide/data1/images/slide3.jpg" alt="">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">

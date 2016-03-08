@@ -44,12 +44,14 @@
 						<li><a href="/DocMart/mulher/casacos">Mulher</a></li>
 					</ul>
 				</li>
+				<li>
 				<form class="navbar-form navbar-left" role="search">
 					<div class="form-group">
 						<input type="text" class="form-control" placeholder="Pesquisar">
 					</div>
-					<button type="submit" class="btn btn-default">Pesquisar</button>
+					<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
 				</form>
+				</li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="/DocMart/login">Autenticação</a></li>
@@ -57,10 +59,10 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Carrinho<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="#">Ver compras</a></li>
-						<li><a href="#">Finalizar compra</a></li>
+						<li><a href="/DocMart/scart">Ver compras</a></li>
+						<li><a href="/DocMart/checkout">Finalizar compra</a></li>
 						<li role="separator" class="divider"></li>
-						<li>Total: 0€</li>
+						<li>Total: €31.53</li>
 					</ul>
 				</li>
 			</ul>

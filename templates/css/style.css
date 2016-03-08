@@ -5,7 +5,12 @@ html,body {
 
 
 
-
+.stars
+{
+    margin: 20px 0;
+    font-size: 24px;
+    color: #d17581;
+}
 
 #footer{
   background-color: #3e3f3a;
