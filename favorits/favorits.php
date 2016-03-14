@@ -19,8 +19,6 @@
                             <a class="thumbnail pull-left" href="#" style="margin-right: 2%"> <img class="media-object" src="http://icons.iconarchive.com/icons/custom-icon-design/flatastic-2/72/product-icon.png" style="width: 72px; height: 72px;"> </a>
                             <div class="media-body">
                                 <h4 class="media-heading"><a href="#">Calças de Verão</a></h4>
-                                <h5 class="media-heading">Tamanho: XS</h5>
-                                <h5 class="media-heading">Cor: Azul</h5>
                             </div>
                         </div></td>
                         <td></td><td></td>
@@ -36,8 +34,6 @@
                             <a class="thumbnail pull-left" href="#" style="margin-right: 2%;"> <img class="media-object" src="http://icons.iconarchive.com/icons/custom-icon-design/flatastic-2/72/product-icon.png" style="width: 72px; height: 72px;"> </a>
                             <div class="media-body">
                                 <h4 class="media-heading"><a href="#">Casaco estranho</a></h4>
-                                <h5 class="media-heading">Tamanho: L</h5>
-                                <h5 class="media-heading">Cor: Azul</h5>
                             </div>
                         </div></td>
                         <td></td><td></td>
