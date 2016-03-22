@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default navbar-static-top">
+﻿<nav class="navbar navbar-default navbar-static-top">
 	<div class="container-fluid">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
@@ -8,31 +8,31 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="/DocMart">DocMart</a>
+			<a class="navbar-brand" href="">DocMart</a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="/DocMart">Novidades<span class="sr-only">(current)</span></a></li>
+				<li class="active"><a href="">Novidades<span class="sr-only">(current)</span></a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Mulher<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="/DocMart/mulher/casacos">Casacos</a></li>
-						<li><a href="/DocMart/mulher/casacos">Camisolas</a></li>
-						<li><a href="/DocMart/mulher/casacos">Calças</a></li>
-						<li><a href="/DocMart/mulher/casacos">Sapatos</a></li>
+						<li><a href="mulher/casacos">Casacos</a></li>
+						<li><a href="mulher/casacos">Camisolas</a></li>
+						<li><a href="mulher/casacos">Calças</a></li>
+						<li><a href="mulher/casacos">Sapatos</a></li>
 						<li role="separator" class="divider"></li>
-						<li><a href="/DocMart/mulher/casacos">Coleção</a></li>
+						<li><a href="mulher/casacos">Coleção</a></li>
 					</ul>
 				</li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Homem<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="/DocMart/mulher/casacos">Casacos</a></li>
-						<li><a href="/DocMart/mulher/casacos">Camisolas</a></li>
-						<li><a href="/DocMart/mulher/casacos">Calças</a></li>
-						<li><a href="/DocMart/mulher/casacos">Sapatos</a></li>
+						<li><a href="mulher/casacos">Casacos</a></li>
+						<li><a href="mulher/casacos">Camisolas</a></li>
+						<li><a href="mulher/casacos">Calças</a></li>
+						<li><a href="mulher/casacos">Sapatos</a></li>
 						<li role="separator" class="divider"></li>
 						<li><a href="#">Coleção</a></li>
 					</ul>
@@ -40,8 +40,8 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Acessórios<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="/DocMart/mulher/casacos">Homem</a></li>
-						<li><a href="/DocMart/mulher/casacos">Mulher</a></li>
+						<li><a href="mulher/casacos">Homem</a></li>
+						<li><a href="mulher/casacos">Mulher</a></li>
 					</ul>
 				</li>
 				<li>
@@ -54,13 +54,13 @@
 				</li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="/DocMart/login">Autenticação</a></li>
-				<li><a href="/DocMart/register">Registo</a></li>
+				<li><a href="login">Autenticação</a></li>
+				<li><a href="register">Registo</a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Carrinho<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="/DocMart/scart">Ver compras</a></li>
-						<li><a href="/DocMart/checkout">Finalizar compra</a></li>
+						<li><a href="scart">Ver compras</a></li>
+						<li><a href="checkout">Finalizar compra</a></li>
 						<li role="separator" class="divider"></li>
 						<li>Total: €31.53</li>
 					</ul>

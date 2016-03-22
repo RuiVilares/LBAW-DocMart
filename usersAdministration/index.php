@@ -1,6 +1,6 @@
 <?php
     include '../templates/includes/header.php';
     include '../templates/includes/navbar1.php';
-    include 'user.php';
+    include 'usersAdministration.php';
     include '../templates/includes/footer.php';
 ?>

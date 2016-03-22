@@ -23,7 +23,7 @@
                             <img src="http://placehold.it/320x150" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">€24.99</h4>
-                                <h4><a href="/DocMart/mulher/casacos/1/">First Product</a>
+                                <h4><a href="mulher/casacos/1/">First Product</a>
                                 </h4>
                                 <p>See more snippets like this online store item at <a target="_blank" href="http://www.bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p>
                             </div>
@@ -45,7 +45,7 @@
                             <img src="http://placehold.it/320x150" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">€64.99</h4>
-                                <h4><a href="/DocMart/mulher/casacos/1/">Second Product</a>
+                                <h4><a href="mulher/casacos/1/">Second Product</a>
                                 </h4>
                                 <p>This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>
@@ -67,7 +67,7 @@
                             <img src="http://placehold.it/320x150" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">€74.99</h4>
-                                <h4><a href="/DocMart/mulher/casacos/1/">Third Product</a>
+                                <h4><a href="mulher/casacos/1/">Third Product</a>
                                 </h4>
                                 <p>This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>
@@ -89,7 +89,7 @@
                             <img src="http://placehold.it/320x150" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">€84.99</h4>
-                                <h4><a href="/DocMart/mulher/casacos/1/">Fourth Product</a>
+                                <h4><a href="mulher/casacos/1/">Fourth Product</a>
                                 </h4>
                                 <p>This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>
@@ -111,7 +111,7 @@
                             <img src="http://placehold.it/320x150" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">€94.99</h4>
-                                <h4><a href="/DocMart/mulher/casacos/1/">Fifth Product</a>
+                                <h4><a href="mulher/casacos/1/">Fifth Product</a>
                                 </h4>
                                 <p>This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>
@@ -133,7 +133,7 @@
                             <img src="http://placehold.it/320x150" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">€94.99</h4>
-                                <h4><a href="/DocMart/mulher/casacos/1/">Fifth Product</a>
+                                <h4><a href="mulher/casacos/1/">Fifth Product</a>
                                 </h4>
                                 <p>This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>

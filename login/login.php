@@ -10,13 +10,13 @@
     </div>
     <div class="row">
         <div class="col-xs-6 col-md-12">
-            <button class="btn btn-md btn-block" id="submit">Sign in</button>
+            <button class="btn btn-md btn-block" id="submit">Autenticar</button>
         </div>
     </div>
     <hr/>
     <div class="row" id="loginLinks">
         <center>
-            <a href="?page=about">Registo</a>|<a href="?page=about">Recuperar Password</a>
+            <a href="#">Registo</a>|<a href="#">Recuperar Password</a>
         </center>
     </div>
   </form>

@@ -132,6 +132,8 @@
 <div class="panel panel-success">
     <div class="panel-body">
         <center><button class="btn btn-danger btn-lg" data-toggle="modal" data-target="#editArticle">Editar artigo</button></center>
+        <br>
+        <center><button class="btn btn-danger btn-lg" data-toggle="modal" data-target="#deleteArticle">Apagar artigo</button></center>
     </div>
 </div>
 </div>

@@ -18,21 +18,21 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Mulher<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="/DocMart/mulher/casacos">Casacos</a></li>
-						<li><a href="/DocMart/mulher/casacos">Camisolas</a></li>
-						<li><a href="/DocMart/mulher/casacos">Calças</a></li>
-						<li><a href="/DocMart/mulher/casacos">Sapatos</a></li>
+						<li><a href="mulher/casacos">Casacos</a></li>
+						<li><a href="mulher/casacos">Camisolas</a></li>
+						<li><a href="mulher/casacos">Calças</a></li>
+						<li><a href="mulher/casacos">Sapatos</a></li>
 						<li role="separator" class="divider"></li>
-						<li><a href="/DocMart/mulher/casacos">Coleção</a></li>
+						<li><a href="mulher/casacos">Coleção</a></li>
 					</ul>
 				</li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Homem<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="/DocMart/mulher/casacos">Casacos</a></li>
-						<li><a href="/DocMart/mulher/casacos">Camisolas</a></li>
-						<li><a href="/DocMart/mulher/casacos">Calças</a></li>
-						<li><a href="/DocMart/mulher/casacos">Sapatos</a></li>
+						<li><a href="mulher/casacos">Casacos</a></li>
+						<li><a href="mulher/casacos">Camisolas</a></li>
+						<li><a href="mulher/casacos">Calças</a></li>
+						<li><a href="mulher/casacos">Sapatos</a></li>
 						<li role="separator" class="divider"></li>
 						<li><a href="#">Coleção</a></li>
 					</ul>
@@ -40,8 +40,8 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Acessórios<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="/DocMart/mulher/casacos">Homem</a></li>
-						<li><a href="/DocMart/mulher/casacos">Mulher</a></li>
+						<li><a href="mulher/casacos">Homem</a></li>
+						<li><a href="mulher/casacos">Mulher</a></li>
 					</ul>
 				</li>
 				<li>
@@ -54,14 +54,14 @@
 				</li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="/DocMart/user">O meu perfil</a></li>
-				<li><a href="/DocMart/favorits">Favoritos</a></li>
+				<li><a href="user">O meu perfil</a></li>
+				<li><a href="favorits">Favoritos</a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Carrinho<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="/DocMart/scart">Ver compras</a></li>
-						<li><a href="/DocMart/checkout">Finalizar compra</a></li>
-						<li><a href="/DocMart/history">Histórico de compras</a></li>
+						<li><a href="scart">Ver compras</a></li>
+						<li><a href="checkout">Finalizar compra</a></li>
+						<li><a href="history">Histórico de compras</a></li>
 						<li role="separator" class="divider"></li>
 						<li>Total: €31.53</li>
 					</ul>
