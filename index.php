@@ -1,6 +1,3 @@
 <?php
-    include 'templates/includes/header.php';
-    include 'templates/includes/navbar.php';
-    include 'home.php';
-    include 'templates/includes/footer.php';
+  header('Location: pages/item/catalog.php');
 ?>

@@ -1,0 +1,230 @@
+html,body {
+    height:100%;
+    overflow-x: hidden;
+}
+
+.stars
+{
+    margin: 20px 0;
+    font-size: 24px;
+    color: #d17581;
+}
+
+#footer{
+  background-color: #3e3f3a;
+  position: fixed;
+  bottom: 0px;
+  padding-top: 10px;
+}
+
+#footer  a:link {
+    color: #98978b;
+}
+
+/* visited link */
+#footer  a:visited {
+    color: #98978b;
+    text-decoration: none;
+}
+
+/* mouse over link */
+#footer  a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#footer  a:active {
+    color: #98978b;
+    text-decoration: none;
+}
+
+#space {
+  height: 120px;
+}
+
+
+.faqHeader {
+  font-size: 27px;
+  margin: 20px;
+}
+
+.panel-heading [data-toggle="collapse"]:after {
+  font-family: 'Glyphicons Halflings';
+  content: "\e072"; /* "play" icon */
+  float: right;
+  color: #F58723;
+  font-size: 18px;
+  line-height: 22px;
+  /* rotate "play" icon from > (right arrow) to down arrow */
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+
+.panel-heading [data-toggle="collapse"].collapsed:after {
+  /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  color: #454444;
+}
+
+.panel-collapse.collapse{
+    padding-left: 15px;
+    padding-bottom: 8px;
+}
+
+.error {
+  background-color: #FFAAAA;
+  padding: 10px;
+  color: #333;
+  font-weight: bold;
+}
+
+.success {
+  background-color: #AAFFAA;
+  padding: 10px;
+  color: #333;
+  font-weight: bold;
+}
+
+.close {
+  float: right;
+  text-decoration: none;
+  color: #666;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.radio+.radio, .checkbox+.checkbox {
+  margin-top: 10px;
+}
+
+.col-md-6 {
+  padding-right: 30px;
+}
+
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus {
+  z-index: 0;
+}
+
+p {
+  line-height:1.6;
+}
+
+.item-short-description {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.form-control::-webkit-input-placeholder {
+   color: #BBB;
+}
+
+.form-control:-moz-placeholder { /* Firefox 18- */
+   color: #BBB;
+}
+
+.form-control::-moz-placeholder {  /* Firefox 19+ */
+   color: #BBB;
+}
+
+.form-control:-ms-input-placeholder {
+   color: #BBB;
+}
+
+legend {
+  font-size: 90%;
+}
+
+.search-div {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+  flex-wrap: wrap;
+}
+.search-div > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-div .col-md-9 {
+  width: 95%;
+}
+
+.butDownLeft {
+  cursor: default;
+  position: relative;
+  top: -1px;
+  left: -15px;
+}
+
+.butDownRight {
+  cursor: default;
+  position: relative;
+  top: -1px;
+  right: 6px;
+}
+
+.general {
+  cursor: default;
+  margin-right: 15px;
+  font-size: 8px;
+}
+
+.item-type {
+    cursor: default;
+    padding-top: 12px;
+    position: relative;
+    left: -10px;
+}
+
+.item-advanced {
+  cursor: default;
+  margin-left: 2px;
+  margin-right: 5px;
+  position: relative;
+}
+
+.item-page {
+  cursor: default;
+  margin-right: 12px;
+  font-size: 15px;
+}
+
+.favorites {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+span.glyphicon-info-sign {
+  cursor: default;
+  color: #333333;
+}
+
+span.glyphicon-info-sign.bar {
+  color: #ffffff;
+}
+
+span.glyphicon-info-sign.authentication {
+  color: #333333;
+  font-size: 18px;
+}
+
+.row {
+  margin-top:10px;
+}
